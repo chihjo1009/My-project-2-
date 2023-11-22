@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 57193679390c6d04e89bcc023930e614
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - swordModel: {fileID: 6961334909620523888, guid: f395172fee1e49840999058564af2b43, type: 3}
+  - bowModel: {fileID: 1346108365426719496, guid: c1a51e1205ac4a640a1c27b33fcc1f89, type: 3}
+  - staffModel: {fileID: 2781370952810546907, guid: 4f1fb20065f4f664ca371439f759fba5, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
